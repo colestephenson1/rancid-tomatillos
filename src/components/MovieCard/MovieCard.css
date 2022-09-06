@@ -1,0 +1,23 @@
+.movie-card {
+  box-sizing: border-box;
+  border: 3px solid black;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: crimson;
+}
+
+.poster {
+    border: 1px solid black;
+    height: 75%;
+    width: 100%;
+}
+
+h3, p {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 2px 50px;
+    border-radius: 5px;
+}
